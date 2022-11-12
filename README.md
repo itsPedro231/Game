@@ -1,5 +1,12 @@
 # Rpg inspired Game
-This is a Rpg themed game 
+This is a Rpg themed game.
+
+Features:
+ - Randomly generated map (enemies, trees and rocks)
+ - 4 Different weapons (Axe, Lance, Sai and Sword) you can use during the play through
+ - Healing and fire magic
+ - 4 different enemies (Bug, Racoon, Spirit and Squid) you will face during the play through
+ - Pause menu where you can upgrade the character's status
 
 Libraries/Frameworks used:
   - Pygame
@@ -14,6 +21,6 @@ Main Menu:
 Game:
   ![image](https://user-images.githubusercontent.com/94463704/201486353-0956d88b-db7b-464a-b231-d0885f65709d.png)
 
-Menu to pause the game and upgrade the character's status:
+Pause/upgrade menu:
   ![image](https://user-images.githubusercontent.com/94463704/201486394-209bb31a-b85d-405e-9f47-2b93ccdc7a33.png)
 
